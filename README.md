@@ -1,7 +1,7 @@
 It's python data analysis full practice code
 
 Clone the repository:
-git clone https://github.com/yourusername/your-project-name.git
+git clone https://github.com/KK057/data-analyst.git
 
 cd your-project-name
 
